@@ -103,10 +103,10 @@ ${a}UNTUK FITUR TERUPDATE SILAHKAN KETIK${a} *${prefix}infobot*
 
 ╭────≽「 *SUPPORT ${name}* 」
 ┴
-│➲ ${a}O BOT${a}
+│➲ ${a}ACILL GAYY${a}
 │➲ ${a}M. HADI FIRMANSYA${a}
 │➲ ${a}DELIA AULIA${a}
-│➲ ${a}KEVIN DAVID${a}
+│➲ ${a}KEVIN DAVID GANTENG${a}
 │➲ ${a}MY TEAM FXC7 BOT${a}
 │➲ ${a}PENYEDIA REST API${a}
 │➲ ${a}CONTENT CREATOR BOT WHATSAPP${a}
